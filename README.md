@@ -366,49 +366,45 @@ kubectl get all
 
 ---
 
-## 3. Default VPC
-
-![Default VPC](screenshots/aws/default-vpc.png)
-
 ---
 
-## 4. Running Pods
+## 3. Running Pods
 
 ![Running Pods](screenshots/kubernetes/get-pods.png)
 
 ---
 
-## 5. Kubernetes Services
+## 4. Kubernetes Services
 
 ![Kubernetes Services](screenshots/kubernetes/get-services.png)
 
 ---
 
-## 6. Istio VirtualService
+## 5. Istio VirtualService
 
 ![Istio VirtualService](screenshots/istio/virtualservice.png)
 
 ---
 
-## 7. Istio DestinationRule
+## 6. Istio DestinationRule
 
 ![Istio DestinationRule](screenshots/istio/destinationrule.png)
 
 ---
 
-## 8. Kiali Dashboard
+## 7. Kiali Dashboard
 
 ![Kiali Dashboard](screenshots/monitoring/kiali-dashboard.png)
 
 ---
 
-## 9. Grafana Dashboard
+## 8. Grafana Dashboard
 
 ![Grafana Dashboard](screenshots/monitoring/grafana-dashboard.png)
 
 ---
 
-## 10. Prometheus Dashboard
+## 9. Prometheus Dashboard
 
 ![Prometheus Dashboard](screenshots/monitoring/prometheus-dashboard.png)
 
