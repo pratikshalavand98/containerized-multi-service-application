@@ -356,80 +356,61 @@ kubectl get all
 
 ## 1. Amazon EKS Cluster
 
-
-screenshots/aws/eks-cluster.png
-
+![EKS Cluster](screenshots/aws/eks-cluster.png)
 
 ---
 
 ## 2. EKS Node Group
 
-
-screenshots/aws/node-group.png
-
+![EKS Node Group](screenshots/aws/node-group.png)
 
 ---
 
 ## 3. Default VPC
 
-
-screenshots/aws/default-vpc.png
-
+![Default VPC](screenshots/aws/default-vpc.png)
 
 ---
 
 ## 4. Running Pods
 
-
-screenshots/kubernetes/get-pods.png
-
+![Running Pods](screenshots/kubernetes/get-pods.png)
 
 ---
 
 ## 5. Kubernetes Services
 
-
-screenshots/kubernetes/get-services.png
-
+![Kubernetes Services](screenshots/kubernetes/get-services.png)
 
 ---
 
 ## 6. Istio VirtualService
 
-
-screenshots/istio/virtualservice.png
-
+![Istio VirtualService](screenshots/istio/virtualservice.png)
 
 ---
 
 ## 7. Istio DestinationRule
 
-
-screenshots/istio/destinationrule.png
-
+![Istio DestinationRule](screenshots/istio/destinationrule.png)
 
 ---
 
 ## 8. Kiali Dashboard
 
-
-screenshots/monitoring/kiali-dashboard.png
-
+![Kiali Dashboard](screenshots/monitoring/kiali-dashboard.png)
 
 ---
 
 ## 9. Grafana Dashboard
 
-
-screenshots/monitoring/grafana-dashboard.png
-
+![Grafana Dashboard](screenshots/monitoring/grafana-dashboard.png)
 
 ---
 
 ## 10. Prometheus Dashboard
 
-screenshots/monitoring/prometheus-dashboard.png
-
+![Prometheus Dashboard](screenshots/monitoring/prometheus-dashboard.png)
 
 ---
 
